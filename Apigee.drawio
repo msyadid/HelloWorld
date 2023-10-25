@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T11:48:56.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="dMTWcRhIbuy7yGXQhzbt" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T12:56:55.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="HECbEpglscU8bAHLWTCF" version="22.0.0" type="github">
   <diagram name="Page-1" id="HOvuosdeT9v5tkYRqVk3">
-    <mxGraphModel dx="1042" dy="535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,17 @@
         </mxCell>
         <mxCell id="XcDybMvGG41WEiG3jihm-8" value="Policy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XcDybMvGG41WEiG3jihm-10">
           <mxGeometry x="6.5" y="79" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XcDybMvGG41WEiG3jihm-12" value="- Quota&lt;br&gt;- ApiKey&lt;br&gt;- AssignMessage" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="67" y="462" width="137" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="XcDybMvGG41WEiG3jihm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="XcDybMvGG41WEiG3jihm-8" target="XcDybMvGG41WEiG3jihm-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14" y="318" />
+              <mxPoint x="-14" y="575" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
