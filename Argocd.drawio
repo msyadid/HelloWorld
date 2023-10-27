@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T12:34:22.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Safari/605.1.15" etag="s_ImDoMqWebw459b4RJl" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T12:43:57.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Safari/605.1.15" etag="WMPtRNoKW6salfFqeE24" version="22.0.8" type="github">
   <diagram name="Page-1" id="Bm3REpQPp8TtPt_DJ47i">
     <mxGraphModel dx="1390" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SvmlQX_1V4P2XidHX91--4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--1" target="SvmlQX_1V4P2XidHX91--3">
+        <mxCell id="SvmlQX_1V4P2XidHX91--4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;strokeColor=#457B9D;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--1" target="SvmlQX_1V4P2XidHX91--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--1" value="Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SvmlQX_1V4P2XidHX91--1" value="Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-257" y="101" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--3" target="SvmlQX_1V4P2XidHX91--5">
+        <mxCell id="SvmlQX_1V4P2XidHX91--6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;strokeColor=#457B9D;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--3" target="SvmlQX_1V4P2XidHX91--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--3" value="Build image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SvmlQX_1V4P2XidHX91--3" value="Build image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-94" y="101" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--5" target="SvmlQX_1V4P2XidHX91--7">
+        <mxCell id="SvmlQX_1V4P2XidHX91--8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;strokeColor=#457B9D;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--5" target="SvmlQX_1V4P2XidHX91--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--5" value="Push to docker repo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SvmlQX_1V4P2XidHX91--5" value="Push to docker repo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="69" y="101" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--7" target="SvmlQX_1V4P2XidHX91--9">
+        <mxCell id="SvmlQX_1V4P2XidHX91--10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;strokeColor=#457B9D;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--7" target="SvmlQX_1V4P2XidHX91--9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--7" value="Update k8s manifest file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SvmlQX_1V4P2XidHX91--7" value="Update k8s manifest file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="236" y="101" width="120" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--9" target="SvmlQX_1V4P2XidHX91--11">
+        <mxCell id="SvmlQX_1V4P2XidHX91--12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;strokeColor=#457B9D;" edge="1" parent="1" source="SvmlQX_1V4P2XidHX91--9" target="SvmlQX_1V4P2XidHX91--11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--9" value="Kubectl apply ..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SvmlQX_1V4P2XidHX91--9" value="Kubectl apply ..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="403" y="101" width="120" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="SvmlQX_1V4P2XidHX91--11" value="New version deployed in k8s cluster" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SvmlQX_1V4P2XidHX91--11" value="New version deployed in k8s cluster" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="570" y="101" width="120" height="67" as="geometry" />
         </mxCell>
       </root>
