@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T10:03:05.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" version="22.0.0" etag="mE6YfPTNzDgZ6if826Vy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T10:31:25.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="eMHHS3fcF6jlB_W5ck5h" version="22.0.0" type="github">
   <diagram name="Page-1" id="H4TLv6vgvQGJwjCDMaBM">
-    <mxGraphModel>
+    <mxGraphModel dx="1892" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EHCREO4AQgaiWd2TgU4i-4" target="EHCREO4AQgaiWd2TgU4i-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="10" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-2" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EHCREO4AQgaiWd2TgU4i-4" target="EHCREO4AQgaiWd2TgU4i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-8" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EHCREO4AQgaiWd2TgU4i-7">
+          <mxGeometry x="-0.045" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EHCREO4AQgaiWd2TgU4i-4" target="EHCREO4AQgaiWd2TgU4i-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-11" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EHCREO4AQgaiWd2TgU4i-10">
+          <mxGeometry x="-0.155" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EHCREO4AQgaiWd2TgU4i-4" target="EHCREO4AQgaiWd2TgU4i-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-14" value="help jadwal &lt;br&gt;CAB meeting" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EHCREO4AQgaiWd2TgU4i-13">
+          <mxGeometry x="-0.02" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-5" value="Hi Caberz, &lt;br&gt;apakah kamu ingin deploy&lt;br&gt;&amp;nbsp;sesuai dengan jadwal &lt;br&gt;CAB meeting ?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="98" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-9" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EHCREO4AQgaiWd2TgU4i-12" target="EHCREO4AQgaiWd2TgU4i-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-19" value="CAB meeting itu ngapain aja?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EHCREO4AQgaiWd2TgU4i-18">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-12" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="50" width="255" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-15" value="Jadwal CAB meeting seminggu&lt;br&gt;2 kali yaitu&amp;nbsp;&lt;br&gt;1. Selasa, &lt;br&gt;jam 10AM -12PM dengan batas &lt;br&gt;submit CR dan kelengkapannya di H-1&amp;nbsp;&lt;br&gt;Senin jam 2PM, CR berlaku untuk implementasi/&lt;br&gt;deployment yaitu selasa after CAB hingga&amp;nbsp;&lt;br&gt;Rabu jam 11:59PM&lt;br&gt;2. Kamis jam 2PM-4PM dengan&lt;br&gt;batas submit CR di remedyRabu jam 12PM." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EHCREO4AQgaiWd2TgU4i-12">
+          <mxGeometry x="-25" y="40" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EHCREO4AQgaiWd2TgU4i-16" target="EHCREO4AQgaiWd2TgU4i-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-23" value="CAB member ini siapa saja?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EHCREO4AQgaiWd2TgU4i-22">
+          <mxGeometry x="-0.206" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-16" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="350" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-17" value="Anda sebagai requestor akan menjelaskan&lt;br&gt;tentang Change Request (CR) yang anda ajukan&lt;br&gt;kepada CAB member dan mendapatkan&lt;br&gt;feedback dari mereka, CR kamu ada kemungkinan&lt;br&gt;akan di Approved atau di Reject." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EHCREO4AQgaiWd2TgU4i-16">
+          <mxGeometry x="-15" y="50" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-20" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="580" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EHCREO4AQgaiWd2TgU4i-21" value="CAB member terdiri dari 3 fungsi yaitu :&lt;br&gt;1. fungsi IT Security / BISO / Governance (PIC : Arif)&lt;br&gt;2. fungsi DevOps Infra (PIC : Anggid)&lt;br&gt;3. fungsi IT Architect (PIC : Hermy)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EHCREO4AQgaiWd2TgU4i-20">
+          <mxGeometry x="-20" y="40" width="300" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
