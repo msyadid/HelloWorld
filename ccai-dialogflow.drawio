@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T04:43:56.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="hWknpKb2WUUTgQCCPTa3" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T05:40:46.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="25BGqh1ODY7l3bM5xQgA" version="22.1.5" type="github">
   <diagram name="Page-1" id="_4RhQsaLEIcMZUvpXe1u">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="609UB_5nZvNRpZ_Gh5ap-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="22" y="80" width="778" height="530" as="geometry" />
+          <mxGeometry x="22" y="80" width="778" height="640" as="geometry" />
         </mxCell>
         <mxCell id="609UB_5nZvNRpZ_Gh5ap-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="40" y="136" width="740" height="454" as="geometry" />
+          <mxGeometry x="40" y="136" width="740" height="564" as="geometry" />
         </mxCell>
         <mxCell id="MFfRlPMHt3bNwRhRdUh6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="487" y="166" width="270" height="410" as="geometry" />
+          <mxGeometry x="487" y="166" width="270" height="514" as="geometry" />
         </mxCell>
         <mxCell id="MFfRlPMHt3bNwRhRdUh6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" parent="1" source="609UB_5nZvNRpZ_Gh5ap-12" target="MFfRlPMHt3bNwRhRdUh6-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -38,6 +38,9 @@
           <mxGeometry x="-0.4251" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#FF8000;" edge="1" parent="1" source="MFfRlPMHt3bNwRhRdUh6-6" target="609UB_5nZvNRpZ_Gh5ap-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MFfRlPMHt3bNwRhRdUh6-6" value="Agent Assist&lt;br&gt;Contact Center agent/&lt;br&gt;change manager agent" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="552" y="486" width="150" height="60" as="geometry" />
@@ -85,6 +88,9 @@
         </mxCell>
         <mxCell id="609UB_5nZvNRpZ_Gh5ap-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.messages;" vertex="1" parent="1">
           <mxGeometry x="330" y="530" width="30" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-16" value="Knowledge service&lt;br&gt;/ KB" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="552" y="600" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
