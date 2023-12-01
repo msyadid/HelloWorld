@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T04:37:35.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ss4HCbLtUf9ebsk5SwRN" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T04:43:56.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="hWknpKb2WUUTgQCCPTa3" version="22.1.5" type="github">
   <diagram name="Page-1" id="_4RhQsaLEIcMZUvpXe1u">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint x="82" y="286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="609UB_5nZvNRpZ_Gh5ap-11" value="Give the direct response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#99FFFF;" vertex="1" connectable="0" parent="MFfRlPMHt3bNwRhRdUh6-8">
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-11" value="Give the direct/manual response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#99FFFF;" vertex="1" connectable="0" parent="MFfRlPMHt3bNwRhRdUh6-8">
           <mxGeometry x="-0.4251" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,7 +50,7 @@
             <mxPoint x="82" y="286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="609UB_5nZvNRpZ_Gh5ap-5" value="Give the response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#99FFFF;" vertex="1" connectable="0" parent="609UB_5nZvNRpZ_Gh5ap-3">
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-5" value="Give the auto response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#99FFFF;" vertex="1" connectable="0" parent="609UB_5nZvNRpZ_Gh5ap-3">
           <mxGeometry x="-0.1685" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="609UB_5nZvNRpZ_Gh5ap-1" value="Can answer?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="587" y="326" width="80" height="80" as="geometry" />
+          <mxGeometry x="580" y="326" width="94" height="94" as="geometry" />
         </mxCell>
         <mxCell id="609UB_5nZvNRpZ_Gh5ap-9" value="CABai chatbot" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
