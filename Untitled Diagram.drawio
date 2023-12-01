@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T03:17:17.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="8goEhSyEufKslx1Dobaa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T03:43:32.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="cFPq-mAMZJY9DDLDbaMm" version="22.1.5" type="github">
   <diagram name="Page-1" id="_4RhQsaLEIcMZUvpXe1u">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="470" y="50" width="270" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="MFfRlPMHt3bNwRhRdUh6-1" target="MFfRlPMHt3bNwRhRdUh6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-4" value="ask detail of cr number/&lt;br&gt;request template doc/&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;consultation-/&lt;br&gt;need help/&lt;br&gt;ask review result/&lt;br&gt;auto review pre-req doc/&lt;br&gt;reorting&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MFfRlPMHt3bNwRhRdUh6-3">
+          <mxGeometry x="-0.1733" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-1" value="Requestor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFfRlPMHt3bNwRhRdUh6-2" target="MFfRlPMHt3bNwRhRdUh6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-2" value="Virtual Agent&lt;br&gt;Dialog flow" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MFfRlPMHt3bNwRhRdUh6-6" target="MFfRlPMHt3bNwRhRdUh6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-6" value="Agent Assist&lt;br&gt;Contact Center/&lt;br&gt;change manager" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-10" value="CCAI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="575" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
