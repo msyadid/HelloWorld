@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T04:02:12.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Z7MuGnw9nLfJ4rrOZi7k" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T04:35:13.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="l1I3OzLXG2iCFC9Etl8p" version="22.1.5" type="github">
   <diagram name="Page-1" id="_4RhQsaLEIcMZUvpXe1u">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,34 +13,42 @@
         <mxCell id="MFfRlPMHt3bNwRhRdUh6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="487" y="166" width="270" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="MFfRlPMHt3bNwRhRdUh6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="MFfRlPMHt3bNwRhRdUh6-1" target="MFfRlPMHt3bNwRhRdUh6-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" parent="1" source="609UB_5nZvNRpZ_Gh5ap-12" target="MFfRlPMHt3bNwRhRdUh6-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="256" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MFfRlPMHt3bNwRhRdUh6-4" value="ask detail of cr number/&lt;br&gt;request template doc/&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;consultation-/&lt;br&gt;need help/&lt;br&gt;ask review result/&lt;br&gt;auto review pre-req doc/&lt;br&gt;reorting&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MFfRlPMHt3bNwRhRdUh6-3" vertex="1" connectable="0">
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-4" value="Assist&amp;nbsp; how to create CR/&lt;br&gt;ask detail of cr number/&lt;br&gt;request template doc/&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;consultation/&lt;br&gt;need help/&lt;br&gt;ask review result/&lt;br&gt;auto review pre-req doc/&lt;br&gt;reorting&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MFfRlPMHt3bNwRhRdUh6-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1733" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MFfRlPMHt3bNwRhRdUh6-1" value="Requestor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="67" y="226" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="609UB_5nZvNRpZ_Gh5ap-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MFfRlPMHt3bNwRhRdUh6-2" target="609UB_5nZvNRpZ_Gh5ap-1">
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" edge="1" parent="1" source="MFfRlPMHt3bNwRhRdUh6-2" target="609UB_5nZvNRpZ_Gh5ap-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MFfRlPMHt3bNwRhRdUh6-2" value="Virtual Agent&lt;br&gt;(Dialogflow)" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-2" value="Virtual Agent&lt;br&gt;(Dialogflow)" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="567" y="226" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MFfRlPMHt3bNwRhRdUh6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MFfRlPMHt3bNwRhRdUh6-6" target="MFfRlPMHt3bNwRhRdUh6-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" parent="1" source="MFfRlPMHt3bNwRhRdUh6-6" target="609UB_5nZvNRpZ_Gh5ap-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="82" y="286" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MFfRlPMHt3bNwRhRdUh6-6" value="Agent Assist&lt;br&gt;Contact Center agent/&lt;br&gt;change manager agent" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-11" value="Give the direct response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MFfRlPMHt3bNwRhRdUh6-8">
+          <mxGeometry x="-0.4251" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFfRlPMHt3bNwRhRdUh6-6" value="Agent Assist&lt;br&gt;Contact Center agent/&lt;br&gt;change manager agent" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="552" y="486" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MFfRlPMHt3bNwRhRdUh6-10" value="CCAI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="592" y="166" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="609UB_5nZvNRpZ_Gh5ap-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="609UB_5nZvNRpZ_Gh5ap-1" target="MFfRlPMHt3bNwRhRdUh6-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="609UB_5nZvNRpZ_Gh5ap-1" target="609UB_5nZvNRpZ_Gh5ap-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="82" y="286" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="609UB_5nZvNRpZ_Gh5ap-5" value="Give the response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="609UB_5nZvNRpZ_Gh5ap-3">
           <mxGeometry x="-0.1685" y="-1" relative="1" as="geometry">
@@ -52,7 +60,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="609UB_5nZvNRpZ_Gh5ap-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="609UB_5nZvNRpZ_Gh5ap-1" target="MFfRlPMHt3bNwRhRdUh6-6">
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" edge="1" parent="1" source="609UB_5nZvNRpZ_Gh5ap-1" target="MFfRlPMHt3bNwRhRdUh6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="609UB_5nZvNRpZ_Gh5ap-7" value="NO, redirect to agent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="609UB_5nZvNRpZ_Gh5ap-4">
@@ -60,11 +68,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="609UB_5nZvNRpZ_Gh5ap-1" value="Can answer?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-1" value="Can answer?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="587" y="326" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="609UB_5nZvNRpZ_Gh5ap-9" value="CABai&lt;br&gt;Contact Center" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-9" value="CABai chatbot" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-12" value="User&lt;br&gt;Requestor" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="72" y="240" width="46" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.messages;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170.5" width="30" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-14" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.messages;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380.5" width="30" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="609UB_5nZvNRpZ_Gh5ap-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.messages;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="30" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
