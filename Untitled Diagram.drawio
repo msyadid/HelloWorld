@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T09:27:21.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JzHmSIb2A5VEvTdXj7lj" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T09:40:09.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="tpXJmQiirt0ydAERSIpe" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,10 +43,10 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-14" target="EmaAOMSK9MtApYgZhfeo-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-14" value="PRhub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-14" value="PRhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-16" target="EmaAOMSK9MtApYgZhfeo-19">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-16" target="EmaAOMSK9MtApYgZhfeo-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-16" value="Menu PMN Manage task, cari case by admission id di field &quot;Prior approval number&quot;, status akan suspend karena belum upload mandatory dokumen LMA/LMK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -56,18 +56,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-19" value="Buka portal buat upload dokumen, cari by polis number di menu Rawat Inap, kemudian pilih yg admission id sebelumnya, klik icon detail" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="343.75" width="120" height="142.5" as="geometry" />
+          <mxGeometry x="480" y="318.75" width="120" height="142.5" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-21" target="EmaAOMSK9MtApYgZhfeo-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-21" value="Upload file LMA/LMK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="385" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-23" target="EmaAOMSK9MtApYgZhfeo-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-23" value="PRhub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-23" value="PRhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="570" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-25" target="EmaAOMSK9MtApYgZhfeo-27">
@@ -103,10 +103,10 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-43" target="EmaAOMSK9MtApYgZhfeo-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-43" value="Portal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-43" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="570" y="929.5699999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-45" target="EmaAOMSK9MtApYgZhfeo-47">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-45" target="EmaAOMSK9MtApYgZhfeo-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-45" value="cari lagi by polis number dan pilih yg admission id, klik detail, jika dah sukses isi bagian LML" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -116,13 +116,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-47" value="PrHub, jika sukses udah masuk di workbasket lagi, utk cek bs search di manage task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="970" width="120" height="100" as="geometry" />
+          <mxGeometry x="285" y="929.57" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-49" target="EmaAOMSK9MtApYgZhfeo-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-49" value="Pilih decision &quot;Approved LOG&quot; dan lgsg complete task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-51" target="EmaAOMSK9MtApYgZhfeo-53">
           <mxGeometry relative="1" as="geometry" />
@@ -133,7 +133,7 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-53" target="EmaAOMSK9MtApYgZhfeo-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-53" value="Portal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-53" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="365" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-61" target="EmaAOMSK9MtApYgZhfeo-64">
@@ -151,7 +151,7 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-66" target="EmaAOMSK9MtApYgZhfeo-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-66" value="Prhub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-66" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="365" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-68" target="EmaAOMSK9MtApYgZhfeo-70">
@@ -187,7 +187,7 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-78" target="EmaAOMSK9MtApYgZhfeo-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-78" value="Portal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-78" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-80" target="EmaAOMSK9MtApYgZhfeo-82">
@@ -199,7 +199,7 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-82" target="EmaAOMSK9MtApYgZhfeo-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-82" value="Prhub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-82" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="142.5" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-84" target="EmaAOMSK9MtApYgZhfeo-86">
@@ -211,7 +211,7 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-86" target="EmaAOMSK9MtApYgZhfeo-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-86" value="Portal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-86" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-88" target="EmaAOMSK9MtApYgZhfeo-90">
@@ -223,7 +223,7 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-90" target="EmaAOMSK9MtApYgZhfeo-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-90" value="PrHub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-90" value="PrHub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="560" y="2075" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-92" target="EmaAOMSK9MtApYgZhfeo-94">
@@ -234,6 +234,18 @@
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-94" value="Ini bisa 2 case: bisa isi manual atau otomatis diisi oleh smartclaim untk diagnosanya&lt;br&gt;&lt;br&gt;stelah input click calculate (icon calculator)&lt;br&gt;&lt;br&gt;click save" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1960" width="120" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-96" target="EmaAOMSK9MtApYgZhfeo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-96" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-99" target="EmaAOMSK9MtApYgZhfeo-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-99" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1044.785" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
