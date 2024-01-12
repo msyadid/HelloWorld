@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T22:35:02.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="G-Ifiv6C_nOceDR_aYRy" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T22:36:36.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TzWxykYJwIljO0Ln4c9f" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-16" target="EmaAOMSK9MtApYgZhfeo-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-16" value="Menu PMN Manage task, cari case by admission id di field &quot;Prior approval number&quot;, status akan suspend karena belum upload mandatory dokumen LMA/LMK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="340" width="120" height="150" as="geometry" />
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-16" value="Menu PMN Manage task, cari case by admission id di field &quot;Prior approval number&quot;, status akan suspend karena belum upload mandatory dokumen LMA/LMK&lt;br&gt;&lt;br&gt;PMN_LOG_ASSESSER - Suspend to inpatient" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="140" height="200" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-19" target="EmaAOMSK9MtApYgZhfeo-21">
           <mxGeometry relative="1" as="geometry" />
