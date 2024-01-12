@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T09:14:23.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ljXoVjCGfoTE8Xg0d8Aw" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T09:27:21.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JzHmSIb2A5VEvTdXj7lj" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -217,11 +217,23 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-88" target="EmaAOMSK9MtApYgZhfeo-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-88" value="Menu pemulangan, cari by polis, klik detail pilih discharge, muncul pop up input total biaya" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1920" width="120" height="70" as="geometry" />
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-88" value="Menu pemulangan, cari by polis, klik detail pilih discharge, muncul pop up input total biaya,upload doc invoice total biaya" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1890" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-90" target="EmaAOMSK9MtApYgZhfeo-92">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-90" value="PrHub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="2075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-92" target="EmaAOMSK9MtApYgZhfeo-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-92" value="Cek manage task &amp;amp; workbasket PMN_DISCHARGE ke menu hospitalization" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2050" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-94" value="Ini bisa 2 case: bisa isi manual atau otomatis diisi oleh smartclaim untk diagnosanya&lt;br&gt;&lt;br&gt;stelah input click calculate (icon calculator)&lt;br&gt;&lt;br&gt;click save" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1960" width="120" height="162.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
