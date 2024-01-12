@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T22:36:36.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TzWxykYJwIljO0Ln4c9f" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T22:43:18.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KxWIgBOwItVOMpGRorip" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-25" target="EmaAOMSK9MtApYgZhfeo-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-25" value="Jika success upload status di manage task akan jadi Open" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-25" value="Jika success upload status di manage task akan jadi Open,&lt;br&gt;&lt;br&gt;PMN_LOG_ASSESSER PMN Log Assesser" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="150" height="145" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-27" target="EmaAOMSK9MtApYgZhfeo-30">
           <mxGeometry relative="1" as="geometry" />
