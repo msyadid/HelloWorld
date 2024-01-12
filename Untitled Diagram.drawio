@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T22:43:18.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KxWIgBOwItVOMpGRorip" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T22:53:00.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="dBR4d_pRQEo78Xbc3-d7" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-35" target="EmaAOMSK9MtApYgZhfeo-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-35" value="isi category LML=admission, Question : apa kabar?&lt;br&gt;&lt;br&gt;kemudian complete task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-35" value="Isi doctor dan paragraf decision&lt;br&gt;isi category LML=admission, Question : apa kabar?&lt;br&gt;&lt;br&gt;kemudian complete task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="660" width="120" height="146.38" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-43" target="EmaAOMSK9MtApYgZhfeo-45">
