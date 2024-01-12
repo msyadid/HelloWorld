@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T06:56:10.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="gZtdBrj48Degaax8gsgI" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T08:24:26.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="-4XMN4K4d6sLnVSRsdZN" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,11 +43,83 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-14" target="EmaAOMSK9MtApYgZhfeo-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-14" value="PRuhub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-14" value="PRhub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-16" value="Menu PMN Manage task, cari case by admission id di field &quot;Prior approval number&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="340" width="120" height="90" as="geometry" />
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-16" target="EmaAOMSK9MtApYgZhfeo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-16" value="Menu PMN Manage task, cari case by admission id di field &quot;Prior approval number&quot;, status akan suspend karena belum upload mandatory dokumen LMA/LMK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-19" target="EmaAOMSK9MtApYgZhfeo-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-19" value="Buka portal buat upload dokumen, cari by polis number di menu Rawat Inap, kemudian pilih yg admission id sebelumnya, klik icon detail" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="343.75" width="120" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-21" target="EmaAOMSK9MtApYgZhfeo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-21" value="Upload file LMA/LMK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-23" target="EmaAOMSK9MtApYgZhfeo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-23" value="PRhub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-25" target="EmaAOMSK9MtApYgZhfeo-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-25" value="Jika success upload status di manage task akan jadi Open" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-27" target="EmaAOMSK9MtApYgZhfeo-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-27" value="Untuk bs kita kerjain, masukin ke Workbasket denga pilih transfer to user, jk berhasil transfer username akan terisi dengan user yg login" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="513" width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-30" target="EmaAOMSK9MtApYgZhfeo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-30" value="Ke menu Workbasket, cari by admission id, klik detail, masuk ke tab &quot;decision &amp;amp; comment&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="700" width="120" height="125.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-32" target="EmaAOMSK9MtApYgZhfeo-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-32" value="Input diagnosis,diagnosis remark,estimated amount,estimated los&lt;br&gt;&lt;br&gt;Decision : single/multiple decision&lt;br&gt;&lt;br&gt;List of Single decision : Approve LOG, Approve LOG &amp;amp; DIscharge,Reject LOG, Hold, Release LML, Transfer to internal doctor,transfer to investigator,back to user,suspend, cancel&lt;br&gt;&lt;br&gt;yg dipilih : Release LML" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="602.75" width="120" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-35" target="EmaAOMSK9MtApYgZhfeo-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-35" value="isi category LML=admission, Question : apa kabar?&lt;br&gt;&lt;br&gt;kemudian complete task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="660" width="120" height="146.38" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-43" target="EmaAOMSK9MtApYgZhfeo-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-43" value="Portal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="929.5699999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-45" target="EmaAOMSK9MtApYgZhfeo-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-45" value="cari lagi by polis number dan pilih yg admission id, klik detail, jika dah sukses isi bagian LML" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1020" width="120" height="109.57" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-47" target="EmaAOMSK9MtApYgZhfeo-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-47" value="PrHub, jika sukses udah masuk di workbasket lagi, utk cek bs search di manage task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="970" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-49" value="Pilih decision &quot;Approved LOG&quot; dan lgsg complete task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
