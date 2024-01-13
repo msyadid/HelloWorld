@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T00:53:54.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="thLBYJC933HN-VTD537A" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T02:05:27.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rUE_j4Vfktr71RmZd51g" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -232,6 +232,9 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-92" value="Cek manage task &amp;amp; workbasket PMN_DISCHARGE ke menu hospitalization" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="2050" width="120" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-94" target="EmaAOMSK9MtApYgZhfeo-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-94" value="Ini bisa 2 case: bisa isi manual atau otomatis diisi oleh smartclaim untk diagnosanya&lt;br&gt;&lt;br&gt;stelah input click calculate (icon calculator)&lt;br&gt;&lt;br&gt;click save" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1960" width="120" height="162.5" as="geometry" />
         </mxCell>
@@ -247,14 +250,8 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-99" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="370" y="1044.785" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="2370" width="760" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-104" value="Portal" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="EmaAOMSK9MtApYgZhfeo-106">
-          <mxGeometry width="380" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-105" value="Prhub" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="EmaAOMSK9MtApYgZhfeo-106">
-          <mxGeometry x="380" width="380" height="370" as="geometry" />
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-107" value="Ke decision comment pilih single decision , Approved GOP&lt;br&gt;&lt;br&gt;pilih no utk BRMS, fielad tidak dijamin mandatory harus diisi&lt;br&gt;&lt;br&gt;save terus complete task&lt;br&gt;&lt;br&gt;kl udah approved GOP, flow inpatient sudahh selesai" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2180" width="120" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
