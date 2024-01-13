@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T04:58:54.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="K6LZmXM-HyOyjGIEhbPZ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T05:00:01.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="WX-hD4ZNRET5vXb9r8C7" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
-    <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="947" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,14 +340,26 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-142" value="ke manage task PMN_PRE_LOG tranfer user&lt;br&gt;&lt;br&gt;ke worksbasket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="687" y="3210" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-144" target="EmaAOMSK9MtApYgZhfeo-146">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-144" target="EmaAOMSK9MtApYgZhfeo-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-144" value="Decision comment diagnose estimate amount&lt;br&gt;single decision&lt;br&gt;decisio : approve, decline,suspend, release LML&lt;br&gt;&lt;br&gt;pilioh approve isi note dan complete task&lt;br&gt;&lt;br&gt;jika berhasil di portal button lanjutkan pendaftaran di menu preadmission akan aktif" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="487" y="3240" width="120" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-146" target="EmaAOMSK9MtApYgZhfeo-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-146" value="klik lanjutkan akan muncul popup isi diagnosa sama? ya, pilih dropdown service rawat jalan, pasca rawat inap&lt;br&gt;&lt;br&gt;klik konfirmasi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="287" y="3250" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-148" value="case akan hilang di menu preadmission" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="3290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-150" target="EmaAOMSK9MtApYgZhfeo-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-150" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
