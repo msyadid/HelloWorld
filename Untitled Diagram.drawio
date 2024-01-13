@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T22:53:00.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="dBR4d_pRQEo78Xbc3-d7" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T00:53:54.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="thLBYJC933HN-VTD537A" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
     <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,19 +22,19 @@
         <mxCell id="EmaAOMSK9MtApYgZhfeo-4" value="Pendaftaran cepat via menu Rawat inap isi nomor polis, nomor kartu then klik daftar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-7" target="EmaAOMSK9MtApYgZhfeo-10">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-7" target="EmaAOMSK9MtApYgZhfeo-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-7" value="checklist formulir dan data pasian, pilih caused of claim &quot;sakit&quot; / Kecelkaan / Gawat darurat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="15" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-10" target="EmaAOMSK9MtApYgZhfeo-12">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-10" target="EmaAOMSK9MtApYgZhfeo-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-10" value="Isi detail kamar,kelas kamar, harga, jml tmpt tidur,nama kamar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-12" target="EmaAOMSK9MtApYgZhfeo-14">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-12" target="EmaAOMSK9MtApYgZhfeo-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmaAOMSK9MtApYgZhfeo-12" value="success regitrasi dapat admission id" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
