@@ -1,442 +1,442 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T05:25:02.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="O3XV0uvPCA6NZshxnaYN" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T02:15:32.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="82T6tCvnOEphS3SdNHpL" version="22.1.18" type="github">
   <diagram name="Page-1" id="2a_MQPUdAriOHTEBXUk0">
-    <mxGraphModel dx="947" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-1" target="EmaAOMSK9MtApYgZhfeo-2">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;flowAnimation=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-1" target="EmaAOMSK9MtApYgZhfeo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-2" target="EmaAOMSK9MtApYgZhfeo-4">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-2" target="EmaAOMSK9MtApYgZhfeo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-2" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-2" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="165" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-4" target="EmaAOMSK9MtApYgZhfeo-7">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-4" target="EmaAOMSK9MtApYgZhfeo-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-4" value="Pendaftaran cepat via menu Rawat inap isi nomor polis, nomor kartu then klik daftar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-4" value="Pendaftaran cepat via menu Rawat inap isi nomor polis, nomor kartu then klik daftar" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-7" target="EmaAOMSK9MtApYgZhfeo-10">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-7" target="EmaAOMSK9MtApYgZhfeo-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-7" value="checklist formulir dan data pasian, pilih caused of claim &quot;sakit&quot; / Kecelkaan / Gawat darurat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-7" value="checklist formulir dan data pasian, pilih caused of claim &quot;sakit&quot; / Kecelkaan / Gawat darurat" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="15" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-10" target="EmaAOMSK9MtApYgZhfeo-12">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-10" target="EmaAOMSK9MtApYgZhfeo-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-10" value="Isi detail kamar,kelas kamar, harga, jml tmpt tidur,nama kamar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-10" value="Isi detail kamar,kelas kamar, harga, jml tmpt tidur,nama kamar" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-12" target="EmaAOMSK9MtApYgZhfeo-14">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-12" target="EmaAOMSK9MtApYgZhfeo-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-12" value="success regitrasi dapat admission id" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-12" value="success regitrasi dapat admission id" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-14" target="EmaAOMSK9MtApYgZhfeo-16">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-14" target="EmaAOMSK9MtApYgZhfeo-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-14" value="PRhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-14" value="PRhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-16" target="EmaAOMSK9MtApYgZhfeo-96">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-16" target="EmaAOMSK9MtApYgZhfeo-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-16" value="Menu PMN Manage task, cari case by admission id di field &quot;Prior approval number&quot;, status akan suspend karena belum upload mandatory dokumen LMA/LMK&lt;br&gt;&lt;br&gt;PMN_LOG_ASSESSER - Suspend to inpatient" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-16" value="Menu PMN Manage task, cari case by admission id di field &quot;Prior approval number&quot;, status akan suspend karena belum upload mandatory dokumen LMA/LMK&lt;br&gt;&lt;br&gt;PMN_LOG_ASSESSER - Suspend to inpatient" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="290" width="140" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-19" target="EmaAOMSK9MtApYgZhfeo-21">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-19" target="EmaAOMSK9MtApYgZhfeo-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-19" value="Buka portal buat upload dokumen, cari by polis number di menu Rawat Inap, kemudian pilih yg admission id sebelumnya, klik icon detail" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-19" value="Buka portal buat upload dokumen, cari by polis number di menu Rawat Inap, kemudian pilih yg admission id sebelumnya, klik icon detail" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="318.75" width="120" height="142.5" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-21" target="EmaAOMSK9MtApYgZhfeo-23">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-21" target="EmaAOMSK9MtApYgZhfeo-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-21" value="Upload file LMA/LMK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-21" value="Upload file LMA/LMK" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-23" target="EmaAOMSK9MtApYgZhfeo-25">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-23" target="EmaAOMSK9MtApYgZhfeo-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-23" value="PRhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-23" value="PRhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="570" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-25" target="EmaAOMSK9MtApYgZhfeo-27">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-25" target="EmaAOMSK9MtApYgZhfeo-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-25" value="Jika success upload status di manage task akan jadi Open,&lt;br&gt;&lt;br&gt;PMN_LOG_ASSESSER PMN Log Assesser" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-25" value="Jika success upload status di manage task akan jadi Open,&lt;br&gt;&lt;br&gt;PMN_LOG_ASSESSER PMN Log Assesser" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="440" width="150" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-27" target="EmaAOMSK9MtApYgZhfeo-30">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-27" target="EmaAOMSK9MtApYgZhfeo-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-27" value="Untuk bs kita kerjain, masukin ke Workbasket denga pilih transfer to user, jk berhasil transfer username akan terisi dengan user yg login" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-27" value="Untuk bs kita kerjain, masukin ke Workbasket denga pilih transfer to user, jk berhasil transfer username akan terisi dengan user yg login" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="513" width="120" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-30" target="EmaAOMSK9MtApYgZhfeo-32">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-30" target="EmaAOMSK9MtApYgZhfeo-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-30" value="Ke menu Workbasket, cari by admission id, klik detail, masuk ke tab &quot;decision &amp;amp; comment&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-30" value="Ke menu Workbasket, cari by admission id, klik detail, masuk ke tab &quot;decision &amp;amp; comment&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="700" width="120" height="125.5" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-32" target="EmaAOMSK9MtApYgZhfeo-35">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-32" target="EmaAOMSK9MtApYgZhfeo-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-32" value="Input diagnosis,diagnosis remark,estimated amount,estimated los&lt;br&gt;&lt;br&gt;Decision : single/multiple decision&lt;br&gt;&lt;br&gt;List of Single decision : Approve LOG, Approve LOG &amp;amp; DIscharge,Reject LOG, Hold, Release LML, Transfer to internal doctor,transfer to investigator,back to user,suspend, cancel&lt;br&gt;&lt;br&gt;yg dipilih : Release LML" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-32" value="Input diagnosis,diagnosis remark,estimated amount,estimated los&lt;br&gt;&lt;br&gt;Decision : single/multiple decision&lt;br&gt;&lt;br&gt;List of Single decision : Approve LOG, Approve LOG &amp;amp; DIscharge,Reject LOG, Hold, Release LML, Transfer to internal doctor,transfer to investigator,back to user,suspend, cancel&lt;br&gt;&lt;br&gt;yg dipilih : Release LML" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="602.75" width="120" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-35" target="EmaAOMSK9MtApYgZhfeo-43">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-35" target="EmaAOMSK9MtApYgZhfeo-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-35" value="Isi doctor dan paragraf decision&lt;br&gt;isi category LML=admission, Question : apa kabar?&lt;br&gt;&lt;br&gt;kemudian complete task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-35" value="Isi doctor dan paragraf decision&lt;br&gt;isi category LML=admission, Question : apa kabar?&lt;br&gt;&lt;br&gt;kemudian complete task" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="660" width="120" height="146.38" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-43" target="EmaAOMSK9MtApYgZhfeo-45">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-43" target="EmaAOMSK9MtApYgZhfeo-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-43" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-43" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="570" y="929.5699999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-45" target="EmaAOMSK9MtApYgZhfeo-99">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-45" target="EmaAOMSK9MtApYgZhfeo-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-45" value="cari lagi by polis number dan pilih yg admission id, klik detail, jika dah sukses isi bagian LML" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-45" value="cari lagi by polis number dan pilih yg admission id, klik detail, jika dah sukses isi bagian LML" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="1020" width="120" height="109.57" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-47" target="EmaAOMSK9MtApYgZhfeo-49">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-47" target="EmaAOMSK9MtApYgZhfeo-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-47" value="PrHub, jika sukses udah masuk di workbasket lagi, utk cek bs search di manage task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-47" value="PrHub, jika sukses udah masuk di workbasket lagi, utk cek bs search di manage task" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="929.57" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-49" target="EmaAOMSK9MtApYgZhfeo-51">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-49" target="EmaAOMSK9MtApYgZhfeo-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-49" value="Pilih decision &quot;Approved LOG&quot; dan lgsg complete task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-49" value="Pilih decision &quot;Approved LOG&quot; dan lgsg complete task" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-51" target="EmaAOMSK9MtApYgZhfeo-53">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-51" target="EmaAOMSK9MtApYgZhfeo-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-51" value="Karena sudah approved jadi Akan masuk ke PMN Case Monitoring" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-51" value="Karena sudah approved jadi Akan masuk ke PMN Case Monitoring" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-53" target="EmaAOMSK9MtApYgZhfeo-61">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-53" target="EmaAOMSK9MtApYgZhfeo-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-53" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-53" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="365" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-61" target="EmaAOMSK9MtApYgZhfeo-64">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-61" target="EmaAOMSK9MtApYgZhfeo-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-61" value="Ke menu Case Monitoring search by nomor polis, klik detail&lt;br&gt;&lt;br&gt;Pilih &quot;permintaan tambah penjaminan&quot; atau isitilahnya top up LOG (letter of guarantee)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-61" value="Ke menu Case Monitoring search by nomor polis, klik detail&lt;br&gt;&lt;br&gt;Pilih &quot;permintaan tambah penjaminan&quot; atau isitilahnya top up LOG (letter of guarantee)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="565" y="1140" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-64" target="EmaAOMSK9MtApYgZhfeo-66">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-64" target="EmaAOMSK9MtApYgZhfeo-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-64" value="Isi yg mandatory klik submit, muncul popup topup log berhasil disubmit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-64" value="Isi yg mandatory klik submit, muncul popup topup log berhasil disubmit" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="565" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-66" target="EmaAOMSK9MtApYgZhfeo-68">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-66" target="EmaAOMSK9MtApYgZhfeo-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-66" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-66" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="365" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-68" target="EmaAOMSK9MtApYgZhfeo-70">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-68" target="EmaAOMSK9MtApYgZhfeo-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-68" value="Menu manage task, muncul PMN_CASE_MONITORING topup log, trs transfer ke user, kalau sukses masuk ke &quot;workbasket&quot; cari case-nya&lt;br&gt;&lt;br&gt;klik detail, pilih TTOP UP LOG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-68" value="Menu manage task, muncul PMN_CASE_MONITORING topup log, trs transfer ke user, kalau sukses masuk ke &quot;workbasket&quot; cari case-nya&lt;br&gt;&lt;br&gt;klik detail, pilih TTOP UP LOG" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1290" width="165" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-70" target="EmaAOMSK9MtApYgZhfeo-72">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-70" target="EmaAOMSK9MtApYgZhfeo-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-70" value="INput approval procedure tapi pas mau pilih approve error, jadinya pilih decline&lt;br&gt;&lt;br&gt;Klik save akan auto pindah ke decision and comment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-70" value="INput approval procedure tapi pas mau pilih approve error, jadinya pilih decline&lt;br&gt;&lt;br&gt;Klik save akan auto pindah ke decision and comment" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="142.5" y="1480" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-72" target="EmaAOMSK9MtApYgZhfeo-74">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-72" target="EmaAOMSK9MtApYgZhfeo-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-72" value="Krena tadi pilih decline, jd pilih single decision dengan decline top up log&lt;br&gt;&lt;br&gt;trs akan auto redirect ke page decline top up log&lt;br&gt;&lt;br&gt;setelah di save akan redirect ke decision comment lagi&lt;br&gt;&lt;br&gt;pilih complete task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-72" value="Krena tadi pilih decline, jd pilih single decision dengan decline top up log&lt;br&gt;&lt;br&gt;trs akan auto redirect ke page decline top up log&lt;br&gt;&lt;br&gt;setelah di save akan redirect ke decision comment lagi&lt;br&gt;&lt;br&gt;pilih complete task" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="1452.5" width="120" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-74" target="EmaAOMSK9MtApYgZhfeo-76">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-74" target="EmaAOMSK9MtApYgZhfeo-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-74" value="Sekarang nyoba decision suspend ketika pasian dirawat&amp;nbsp; : Cek di manage task sudah masuk workbasket belum status open&amp;nbsp;&lt;br&gt;&lt;br&gt;pilih transfer top up log" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-74" value="Sekarang nyoba decision suspend ketika pasian dirawat&amp;nbsp; : Cek di manage task sudah masuk workbasket belum status open&amp;nbsp;&lt;br&gt;&lt;br&gt;pilih transfer top up log" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1460" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-76" target="EmaAOMSK9MtApYgZhfeo-78">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-76" target="EmaAOMSK9MtApYgZhfeo-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-76" value="Cek lg di manage task&lt;br&gt;&lt;br&gt;trs ke workbasket di decision comment pilih suspend dengan add pending document&lt;br&gt;&lt;br&gt;Complete Task" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-76" value="Cek lg di manage task&lt;br&gt;&lt;br&gt;trs ke workbasket di decision comment pilih suspend dengan add pending document&lt;br&gt;&lt;br&gt;Complete Task" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1670" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-78" target="EmaAOMSK9MtApYgZhfeo-80">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-78" target="EmaAOMSK9MtApYgZhfeo-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-78" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-78" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="360" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-80" target="EmaAOMSK9MtApYgZhfeo-82">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-80" target="EmaAOMSK9MtApYgZhfeo-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-80" value="Menu case monitoring cari by polis number&lt;br&gt;&lt;br&gt;klik detal &amp;gt; pending kelengkapan dokument&lt;br&gt;&lt;br&gt;trs upload doc &amp;amp; submit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-80" value="Menu case monitoring cari by polis number&lt;br&gt;&lt;br&gt;klik detal &amp;gt; pending kelengkapan dokument&lt;br&gt;&lt;br&gt;trs upload doc &amp;amp; submit" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="142.5" y="1660" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-82" target="EmaAOMSK9MtApYgZhfeo-84">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-82" target="EmaAOMSK9MtApYgZhfeo-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-82" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-82" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="142.5" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-84" target="EmaAOMSK9MtApYgZhfeo-86">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-84" target="EmaAOMSK9MtApYgZhfeo-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-84" value="Pasien mau pulang, cek udah masuk workbasket blm, trs pilih decision &amp;gt; complete to case monitoring" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-84" value="Pasien mau pulang, cek udah masuk workbasket blm, trs pilih decision &amp;gt; complete to case monitoring" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="1810" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-86" target="EmaAOMSK9MtApYgZhfeo-88">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-86" target="EmaAOMSK9MtApYgZhfeo-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-86" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-86" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-88" target="EmaAOMSK9MtApYgZhfeo-90">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-88" target="EmaAOMSK9MtApYgZhfeo-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-88" value="Menu pemulangan, cari by polis, klik detail pilih discharge, muncul pop up input total biaya,upload doc invoice total biaya" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-88" value="Menu pemulangan, cari by polis, klik detail pilih discharge, muncul pop up input total biaya,upload doc invoice total biaya" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1890" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-90" target="EmaAOMSK9MtApYgZhfeo-92">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-90" target="EmaAOMSK9MtApYgZhfeo-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-90" value="PrHub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-90" value="PrHub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="560" y="2075" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-92" target="EmaAOMSK9MtApYgZhfeo-94">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-92" target="EmaAOMSK9MtApYgZhfeo-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-92" value="Cek manage task &amp;amp; workbasket PMN_DISCHARGE ke menu hospitalization" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-92" value="Cek manage task &amp;amp; workbasket PMN_DISCHARGE ke menu hospitalization" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="2050" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-94" target="EmaAOMSK9MtApYgZhfeo-107">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-94" target="EmaAOMSK9MtApYgZhfeo-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-94" value="Ini bisa 2 case: bisa isi manual atau otomatis diisi oleh smartclaim untk diagnosanya&lt;br&gt;&lt;br&gt;stelah input click calculate (icon calculator)&lt;br&gt;&lt;br&gt;click save" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-94" value="Ini bisa 2 case: bisa isi manual atau otomatis diisi oleh smartclaim untk diagnosanya&lt;br&gt;&lt;br&gt;stelah input click calculate (icon calculator)&lt;br&gt;&lt;br&gt;click save" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1960" width="120" height="162.5" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-96" target="EmaAOMSK9MtApYgZhfeo-19">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-96" target="EmaAOMSK9MtApYgZhfeo-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-96" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-96" value="Portal" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-99" target="EmaAOMSK9MtApYgZhfeo-47">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-99" target="EmaAOMSK9MtApYgZhfeo-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-99" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-99" value="Prhub" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="370" y="1044.785" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-107" value="Ke decision comment pilih single decision , Approved GOP&lt;br&gt;&lt;br&gt;pilih no utk BRMS, fielad tidak dijamin mandatory harus diisi&lt;br&gt;&lt;br&gt;save terus complete task&lt;br&gt;&lt;br&gt;kl udah approved GOP, flow inpatient sudahh selesai&amp;nbsp;&lt;br&gt;&lt;br&gt;status jadi penerbit jaminan akhir" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-107" value="Ke decision comment pilih single decision , Approved GOP&lt;br&gt;&lt;br&gt;pilih no utk BRMS, fielad tidak dijamin mandatory harus diisi&lt;br&gt;&lt;br&gt;save terus complete task&lt;br&gt;&lt;br&gt;kl udah approved GOP, flow inpatient sudahh selesai&amp;nbsp;&lt;br&gt;&lt;br&gt;status jadi penerbit jaminan akhir" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="2180" width="120" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-112" target="EmaAOMSK9MtApYgZhfeo-116">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-112" target="EmaAOMSK9MtApYgZhfeo-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-112" value="RS bikin invoice ke menu Klaim&lt;br&gt;&lt;br&gt;invoice tidak bs dicampur antara konven dan syariah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-112" value="RS bikin invoice ke menu Klaim&lt;br&gt;&lt;br&gt;invoice tidak bs dicampur antara konven dan syariah" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="2470" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-114" target="EmaAOMSK9MtApYgZhfeo-112">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-114" target="EmaAOMSK9MtApYgZhfeo-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-114" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-114" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="50" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-116" target="EmaAOMSK9MtApYgZhfeo-119">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-116" target="EmaAOMSK9MtApYgZhfeo-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-116" value="Klik buat invoice, Cari by range tanggal dan filter yg konven trs checklist&lt;br&gt;&lt;br&gt;klik lanjut" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-116" value="Klik buat invoice, Cari by range tanggal dan filter yg konven trs checklist&lt;br&gt;&lt;br&gt;klik lanjut" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="2470" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-119" target="EmaAOMSK9MtApYgZhfeo-122">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-119" target="EmaAOMSK9MtApYgZhfeo-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-119" value="isi nomor invoice free text&lt;br&gt;nomor rekening david naufal, upload invoice, checklist,&lt;br&gt;klik kirim&lt;br&gt;&lt;br&gt;catat nomor invoice" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-119" value="isi nomor invoice free text&lt;br&gt;nomor rekening david naufal, upload invoice, checklist,&lt;br&gt;klik kirim&lt;br&gt;&lt;br&gt;catat nomor invoice" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="2500" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-122" target="EmaAOMSK9MtApYgZhfeo-124">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-122" target="EmaAOMSK9MtApYgZhfeo-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-122" value="Prhub" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-122" value="Prhub" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="640" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-124" target="EmaAOMSK9MtApYgZhfeo-127">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-124" target="EmaAOMSK9MtApYgZhfeo-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-124" value="Ke claim manage task serch invoice number&lt;br&gt;&lt;br&gt;PMN_CLAIM_SETTLEMENT&lt;br&gt;&lt;br&gt;transfer user, ke workbasket" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-124" value="Ke claim manage task serch invoice number&lt;br&gt;&lt;br&gt;PMN_CLAIM_SETTLEMENT&lt;br&gt;&lt;br&gt;transfer user, ke workbasket" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="2630" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-127" target="EmaAOMSK9MtApYgZhfeo-131">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-127" target="EmaAOMSK9MtApYgZhfeo-131" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-127" value="search by innvoice number atau invoice id (yg unik invoice id)&lt;br&gt;&lt;br&gt;klik detail, view detail satu-satu&amp;nbsp;&lt;br&gt;pilih pass utk total claim paid&lt;br&gt;&lt;br&gt;klik save&lt;br&gt;&lt;br&gt;perlu check jika ada PCHC perlu di cek jg&lt;br&gt;&lt;br&gt;pilih take decision&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-127" value="search by innvoice number atau invoice id (yg unik invoice id)&lt;br&gt;&lt;br&gt;klik detail, view detail satu-satu&amp;nbsp;&lt;br&gt;pilih pass utk total claim paid&lt;br&gt;&lt;br&gt;klik save&lt;br&gt;&lt;br&gt;perlu check jika ada PCHC perlu di cek jg&lt;br&gt;&lt;br&gt;pilih take decision&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="2610" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-129" target="EmaAOMSK9MtApYgZhfeo-114">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-129" target="EmaAOMSK9MtApYgZhfeo-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-129" value="Start&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-129" value="Start&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="47.5" y="2440" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-131" value="decision pilih approved&lt;br&gt;&lt;br&gt;submit&amp;nbsp;&lt;br&gt;&lt;br&gt;selesai" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-131" value="decision pilih approved&lt;br&gt;&lt;br&gt;submit&amp;nbsp;&lt;br&gt;&lt;br&gt;selesai" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="2870" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-133" target="EmaAOMSK9MtApYgZhfeo-134">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-133" target="EmaAOMSK9MtApYgZhfeo-134" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-133" value="preadmission, rencana tanggal masuk, pilih rawat jalan&lt;br&gt;&lt;br&gt;tanggal perawatan sebelumnya, diagnosa perawatan sebelumnya, nama dokter&lt;br&gt;&lt;br&gt;klik konfirmasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-133" value="preadmission, rencana tanggal masuk, pilih rawat jalan&lt;br&gt;&lt;br&gt;tanggal perawatan sebelumnya, diagnosa perawatan sebelumnya, nama dokter&lt;br&gt;&lt;br&gt;klik konfirmasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="287" y="3020" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-134" target="EmaAOMSK9MtApYgZhfeo-136">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-134" target="EmaAOMSK9MtApYgZhfeo-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-134" value="muncul halaman admission id&lt;br&gt;&lt;br&gt;cari adminision klik detail isi rekam medis&lt;br&gt;&lt;br&gt;total biaya&lt;br&gt;&lt;br&gt;upload ktp&lt;br&gt;total boaya, surat kontrolrawat jalan" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-134" value="muncul halaman admission id&lt;br&gt;&lt;br&gt;cari adminision klik detail isi rekam medis&lt;br&gt;&lt;br&gt;total biaya&lt;br&gt;&lt;br&gt;upload ktp&lt;br&gt;total boaya, surat kontrolrawat jalan" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="487" y="2990" width="120" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-136" target="EmaAOMSK9MtApYgZhfeo-142">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-136" target="EmaAOMSK9MtApYgZhfeo-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-136" value="Prhub" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-136" value="Prhub" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="687" y="3075" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-138" target="EmaAOMSK9MtApYgZhfeo-133">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-138" target="EmaAOMSK9MtApYgZhfeo-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-138" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-138" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="127" y="3085" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-140" target="EmaAOMSK9MtApYgZhfeo-138">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-140" target="EmaAOMSK9MtApYgZhfeo-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-140" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-140" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="3055" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-142" target="EmaAOMSK9MtApYgZhfeo-144">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-142" target="EmaAOMSK9MtApYgZhfeo-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-142" value="ke manage task PMN_PRE_LOG tranfer user&lt;br&gt;&lt;br&gt;ke worksbasket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-142" value="ke manage task PMN_PRE_LOG tranfer user&lt;br&gt;&lt;br&gt;ke worksbasket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="687" y="3210" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-144" target="EmaAOMSK9MtApYgZhfeo-150">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EmaAOMSK9MtApYgZhfeo-144" target="EmaAOMSK9MtApYgZhfeo-150" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-144" value="Decision comment diagnose estimate amount&lt;br&gt;single decision&lt;br&gt;decisio : approve, decline,suspend, release LML&lt;br&gt;&lt;br&gt;pilioh approve isi note dan complete task&lt;br&gt;&lt;br&gt;jika berhasil di portal button lanjutkan pendaftaran di menu preadmission akan aktif" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-144" value="Decision comment diagnose estimate amount&lt;br&gt;single decision&lt;br&gt;decisio : approve, decline,suspend, release LML&lt;br&gt;&lt;br&gt;pilioh approve isi note dan complete task&lt;br&gt;&lt;br&gt;jika berhasil di portal button lanjutkan pendaftaran di menu preadmission akan aktif" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="487" y="3240" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-146" target="EmaAOMSK9MtApYgZhfeo-148">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-146" target="EmaAOMSK9MtApYgZhfeo-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-146" value="klik lanjutkan akan muncul popup isi diagnosa sama? ya, pilih dropdown service rawat jalan, pasca rawat inap&lt;br&gt;&lt;br&gt;klik konfirmasi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-146" value="klik lanjutkan akan muncul popup isi diagnosa sama? ya, pilih dropdown service rawat jalan, pasca rawat inap&lt;br&gt;&lt;br&gt;klik konfirmasi" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="287" y="3250" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-148" target="EmaAOMSK9MtApYgZhfeo-152">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-148" target="EmaAOMSK9MtApYgZhfeo-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-148" value="case akan hilang di menu preadmission, berpindah ke menu rawat jalan&lt;br&gt;&lt;br&gt;cari based on polis, isi informasi perawatan dan kelengkapan dokumen, semua file diupload&lt;br&gt;&lt;br&gt;klik simpan dan kirim" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-148" value="case akan hilang di menu preadmission, berpindah ke menu rawat jalan&lt;br&gt;&lt;br&gt;cari based on polis, isi informasi perawatan dan kelengkapan dokumen, semua file diupload&lt;br&gt;&lt;br&gt;klik simpan dan kirim" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="87" y="3170" width="120" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-150" target="EmaAOMSK9MtApYgZhfeo-146">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-150" target="EmaAOMSK9MtApYgZhfeo-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-150" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-150" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="305" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-152" target="EmaAOMSK9MtApYgZhfeo-154">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-152" target="EmaAOMSK9MtApYgZhfeo-154" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-152" value="prhub" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-152" value="prhub" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="87" y="3565" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-154" target="EmaAOMSK9MtApYgZhfeo-156">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-154" target="EmaAOMSK9MtApYgZhfeo-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-154" value="manage task, transfer user, workbasket PMN_OUTPATIENT&lt;br&gt;&lt;br&gt;Decision comment, pilih decision suspend, isi pending dokumen&lt;br&gt;&lt;br&gt;supend ini status kl misal ada kurang2 dokumen&lt;br&gt;&lt;br&gt;Complete task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-154" value="manage task, transfer user, workbasket PMN_OUTPATIENT&lt;br&gt;&lt;br&gt;Decision comment, pilih decision suspend, isi pending dokumen&lt;br&gt;&lt;br&gt;supend ini status kl misal ada kurang2 dokumen&lt;br&gt;&lt;br&gt;Complete task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="3550" width="120" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-156" target="EmaAOMSK9MtApYgZhfeo-158">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-156" target="EmaAOMSK9MtApYgZhfeo-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-156" value="Portal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-156" value="Portal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="480" y="3625" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-158" target="EmaAOMSK9MtApYgZhfeo-164">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-158" target="EmaAOMSK9MtApYgZhfeo-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-158" value="Pending kelengkapan dokumen&lt;br&gt;&lt;br&gt;upload kekuranganna&lt;br&gt;&lt;br&gt;klik kirim" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-158" value="Pending kelengkapan dokumen&lt;br&gt;&lt;br&gt;upload kekuranganna&lt;br&gt;&lt;br&gt;klik kirim" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="3592.5" width="120" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-160" target="EmaAOMSK9MtApYgZhfeo-167">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-160" target="EmaAOMSK9MtApYgZhfeo-167" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-160" value="Decision comment, single decision, release LML kasih pertanyaan&amp;nbsp;&lt;br&gt;&lt;br&gt;complete task" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-160" value="Decision comment, single decision, release LML kasih pertanyaan&amp;nbsp;&lt;br&gt;&lt;br&gt;complete task" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="3810" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-164" target="EmaAOMSK9MtApYgZhfeo-160">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-164" target="EmaAOMSK9MtApYgZhfeo-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-164" value="Prhub" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-164" value="Prhub" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="710" y="3800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-167" target="EmaAOMSK9MtApYgZhfeo-169">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-167" target="EmaAOMSK9MtApYgZhfeo-169" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-167" value="Portal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-167" value="Portal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="310" y="3850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-169" target="EmaAOMSK9MtApYgZhfeo-171">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-169" target="EmaAOMSK9MtApYgZhfeo-171" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-169" value="Laporan Medis Lanjutan akan aktif detailnya&lt;br&gt;&lt;br&gt;akan jawab pertanyann, bisa diupload juga&lt;br&gt;&lt;br&gt;save kirim" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-169" value="Laporan Medis Lanjutan akan aktif detailnya&lt;br&gt;&lt;br&gt;akan jawab pertanyann, bisa diupload juga&lt;br&gt;&lt;br&gt;save kirim" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="3850" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-171" target="EmaAOMSK9MtApYgZhfeo-173">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-171" target="EmaAOMSK9MtApYgZhfeo-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-171" value="Prhub" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-171" value="Prhub" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="110" y="4140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-173" target="EmaAOMSK9MtApYgZhfeo-175">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-173" target="EmaAOMSK9MtApYgZhfeo-175" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-173" value="isi hospitalization outpatient&lt;br&gt;&lt;br&gt;klik calculation&lt;br&gt;&lt;br&gt;save" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-173" value="isi hospitalization outpatient&lt;br&gt;&lt;br&gt;klik calculation&lt;br&gt;&lt;br&gt;save" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="4010" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-175" target="EmaAOMSK9MtApYgZhfeo-177">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-175" target="EmaAOMSK9MtApYgZhfeo-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-175" value="Decision comment&lt;br&gt;single decision&lt;br&gt;approve ( GOP)&lt;br&gt;&lt;br&gt;save, tidak dijamin diisin harus&lt;br&gt;&lt;br&gt;Complete Task" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-175" value="Decision comment&lt;br&gt;single decision&lt;br&gt;approve ( GOP)&lt;br&gt;&lt;br&gt;save, tidak dijamin diisin harus&lt;br&gt;&lt;br&gt;Complete Task" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="3980" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EmaAOMSK9MtApYgZhfeo-177" target="EmaAOMSK9MtApYgZhfeo-179">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EmaAOMSK9MtApYgZhfeo-177" target="EmaAOMSK9MtApYgZhfeo-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-177" value="Portal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-177" value="Portal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="670" y="4010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmaAOMSK9MtApYgZhfeo-179" value="aktif keputusan jaminan akhir" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EmaAOMSK9MtApYgZhfeo-179" value="aktif keputusan jaminan akhir" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="4150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
